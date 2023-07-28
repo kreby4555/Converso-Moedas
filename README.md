@@ -1,5 +1,5 @@
-# We-care
-<p>Landing Page de uma loja de Pet Shop, desenvolvida no curso DevClub, com a didática do Rodolfo Mori.</p>
+# Conversor de Moedas
+<p>Conversor de moedas, desenvolvido no curso DevClub, com a didática do Rodolfo Mori.</p>
 <br>
 <br>
 <h2>Principais Tecnologias:</h2>
@@ -9,4 +9,4 @@
 <br>
 <h2>Imagem do Projeto</h2>
 <br>
-<img margin="40 30" src="https://raw.githubusercontent.com/kreby4555/We-care/5cffb82ea006960ad28170750ba6cfd3966c6f16/img/nos%20nos%20importamos.png" />
+<img margin="40 30" src="https://raw.githubusercontent.com/kreby4555/Converso-Moedas/d6ae4c1b5c114198b502d72089ec1ba9ab606f18/Assest/Conversor%20de%20Moedas.png" />
